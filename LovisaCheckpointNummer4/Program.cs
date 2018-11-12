@@ -8,6 +8,7 @@ namespace LovisaCheckpointNummer4
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("best movies ever!");
+            Console.WriteLine("copyright lovisa 2018 ;D");
         }
     }
 }
